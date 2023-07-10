@@ -1,5 +1,10 @@
 # Reading Notes 01 - easleyjs
 
+React projects can be created with: npm create vite@latest
+
+(Lab activity was done in /class-demos)
+
+-- Class Exercise
 1. What is a “component”?
 
    A reusable piece of UI functionality that has it's own encapsulated properties and methods.
