@@ -5,36 +5,42 @@ Continuing to learn about Components, Props, and State. Understanding how data i
 
 ## Things I want to know more about
 - Use cases for things that would go in the different life cycle stages.
+- Is state supposed to be inside the class, or outside but in the file?
 
 -- Reading Questions
-1. Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?
+1. **Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?**
 
 render
 
-2. What is the very first thing to happen in the lifecycle of React?
+2. **What is the very first thing to happen in the lifecycle of React?**
 
 The constructor runs
 
-3. Put the following things in the order that they happen: 
+3. **Put the following things in the order that they happen:** 
 - constructor
 - render
 - React Updates
 - componentDidMount
 - componentWillUnmount
 
-4. What does componentDidMount do?
+4. **What does componentDidMount do?**
+
 It's invoked immediately after the component is mounted. Provides a good place to load outside data, or initialize DOM elements.
 
-5. What types of things can you pass in the props?
+6. **What types of things can you pass in the props?**
+
 Any data from outside the component that the component needs - could be values for logic, or data for display in an element.
 
-6. What is the big difference between props and state?
+7. **What is the big difference between props and state?**
+
 Props are passed in from the parent object, state is kept inside the component itself.
 
-7. When do we re-render our application?
+8. **When do we re-render our application?**
+
 Whenever the props for a component or it's state change.
 
-8. What are some examples of things that we could store in state?
+9. **What are some examples of things that we could store in state?**
+
 Input values from a form, or general data for use in an app
 
 
