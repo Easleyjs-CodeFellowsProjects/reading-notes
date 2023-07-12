@@ -16,11 +16,11 @@ render
 The constructor runs
 
 3. Put the following things in the order that they happen: 
-constructor
-render
-React Updates
-componentDidMount
-componentWillUnmount
+- constructor
+- render
+- React Updates
+- componentDidMount
+- componentWillUnmount
 
 4. What does componentDidMount do?
 It's invoked immediately after the component is mounted. Provides a good place to load outside data, or initialize DOM elements.
