@@ -1,11 +1,10 @@
 # Reading Notes 03 - easleyjs
 
 ## Overview
-Continuing to learn about Components, Props, and State. Understanding how data is/should be passed between components in a React application is important because it allows us to make the right choice on how/when to pass data. Working with data inside an app is a core piece of functionality, and without it, we'd only know how to make very simple, static apps.
+We went over how to pass functions to prop, as well as lifting up state, and where to put state
 
 ## Things I want to know more about
-- Use cases for things that would go in the different life cycle stages.
-- Is state supposed to be inside the class, or outside but in the file?
+- Solutions to avoid prop drilling/more advanced state management
 
 -- Reading Questions
 1. **What does .map() return?**
