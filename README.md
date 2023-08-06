@@ -7,6 +7,10 @@ This Repo is inteded for use in keeping *very important* notes on my CF course.
 3. [Week 3 Notes](reading3.md)
 4. [Week 4 Notes](reading4.md)
 5. [Week 5 Notes](reading5.md)
+6. [Week 6 Notes](reading6.md)
+7. [Week 7 Notes]()
+8. [Week 8 Notes](reading8.md)
+9. [Week 9 Notes](reading9.md)
 
 
 
