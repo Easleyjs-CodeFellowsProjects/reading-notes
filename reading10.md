@@ -4,10 +4,10 @@
 SQL and NoSQL
 
 ## Things I want to know more about
-
+How is NoSQL data reported on?
 
 -- Reading Questions
-**What is functional programming?**
+
 Fill in the chart below with five differences between SQL and NoSQL databases:
 
 | SQL      | NoSQL |
