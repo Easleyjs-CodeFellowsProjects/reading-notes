@@ -7,7 +7,6 @@ SQL and NoSQL
 How is NoSQL data reported on?
 
 -- Reading Questions
-
 Fill in the chart below with five differences between SQL and NoSQL databases:
 
 | SQL      | NoSQL |
