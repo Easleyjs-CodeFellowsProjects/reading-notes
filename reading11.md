@@ -5,7 +5,8 @@ CRUD
 
 ## Things I want to know more about
 
--- Reading Questions
+## Reading Questions
+
 **In your own words, describe what each group of status code represents:**
 
 - 100’s = Informational
