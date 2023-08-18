@@ -1,3 +1,14 @@
+# Reading Notes 12 - easleyjs
+
+## Overview
+CRUD Continued
+
+## Things I want to know more about
+
+Is it better to do error handling with try/catch, or use chained .catch() in most cases?
+
+## Reading Questions
+
 **Which HTTP method would you use to update a record through an API?**
 
 PUT
@@ -16,4 +27,4 @@ Each letter in "CRUD" corresponds to a type of REST request
 2. middleware/dependencies
 3. routes
 4. set up db connection and schemas
-5. implement db/mongo operations into routes
+5. implement db operations into routes
