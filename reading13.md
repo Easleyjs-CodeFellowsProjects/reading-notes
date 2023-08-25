@@ -22,7 +22,7 @@ When the leaders implementing it have a clear rationale for it, and when they im
 
 **Why do diverse companies perform better?**
 
-They bring it people who might see problems in different ways, and bring different ideas. They can also help come up with ways to improve the product to reach their communities.
+They bring in people who might see problems in different ways, and bring different ideas. They can also help come up with ways to improve the product to reach their communities.
 
 **Give an example of how a diverse company can serve a diverse user base or vise-versa.**
 
