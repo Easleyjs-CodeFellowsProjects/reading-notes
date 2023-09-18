@@ -1,5 +1,10 @@
 # CodeFellows Reading Notes
 
+## Code 401
+The following notes are for my 401 class:
+
+1. [Week 1 Notes](reading41.md)
+
 ## Code 301
 This Repo is inteded for use in keeping *very important* notes on my CF course.
 1. [Week 1 Notes](reading1.md)
