@@ -1,6 +1,7 @@
 # Reading Notes (401) Reading 01 - easleyjs
 
--- Class Exercise
+## Questions
+
 **How would you describe Node to a non-technical friend?**
 
 Node is kind of a sandbox for running Javascript code on the server. Node can serve web apps and data, connect to databases, and manipulate data/files on the server.
