@@ -4,6 +4,7 @@
 The following notes are for my 401 class:
 
 1. [Week 1 Notes](reading41.md)
+2. [Week 2 Notes](reading42.md)
 
 ## Code 401 Prep
 [Data Structures](dsa.md)
