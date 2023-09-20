@@ -1,4 +1,12 @@
+# Reading Notes (401) Reading 02 - easleyjs
 
+Node/Express/TDD/CI/CD
+
+## Things I want to know more about
+
+Definitely interested to see how TDD is applied in the real world.
+
+## Questions
 
 **Explain middleware, answer as though I were a non-technical recruiter.**
 
